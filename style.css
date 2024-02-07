@@ -1,0 +1,199 @@
+header {
+    background-color: whitesmoke;
+    padding: 10px;
+    font-size: 15px;
+    font-family: Verdana;
+    font-weight: bold;
+    font-style: italic;
+    justify-content: center;
+ }
+
+ body {
+    background-color: whitesmoke;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    font-family: Verdana;
+    gap: 15px;
+    align-items: center;
+    font-size: smaller;
+    font-weight: bold;
+ }
+
+ image {
+    background: url('Main.jpg');
+ }
+
+ }
+
+ footer {
+    background-color: whitesmoke;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    font-family: Verdana;
+    gap: 10px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center; 
+    position: absolute; top: 200px;
+ }
+
+ h3 {
+    font-size: x-small;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+ }
+
+  select {
+       color: whitesmoke;
+       background-color: black;
+       border: 2px;
+       position: absolute;
+       top: 400px; 
+  }
+
+ nav {
+    margin: 20px;
+    padding-right: 5px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+ }
+
+ .logo {
+    background: url('logo.jpg.jpg');
+    margin-left: 10px;
+    background-image: 80px;
+    max-height: 50px;
+    position: absolute;
+    left: 0%;
+
+ }
+
+ ul {
+
+ }
+
+ ul li {
+    list-style: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+ }
+
+ ul li a {
+
+ }
+
+ h1 {
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-align: center;
+    position:absolute;
+    top: 260px;
+    bottom: 20px;
+    left: 27%;
+ }
+
+ .product-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding-block: 5px;
+ }
+
+ .product-item {
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    left: 0%;
+
+ }
+
+ .product-item img {
+    width: 100%;
+    height: auto;
+ }
+ 
+ .product-item h3 {
+    margin: 10px 0;
+ }
+
+ .product-item p {
+    margin: 5px 0;
+    font-size: 7px;
+ }
+
+ .product-item span {
+    font-weight: bold;
+    font-style: italic;
+ }
+
+ .Unc3s {
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+    position: absolute;
+    top: 330px;
+    left: 0%;
+
+ }
+
+ .Unc3s img {
+    width: 100%;
+    height: auto;
+ }
+ 
+ .Unc3s h3 {
+    margin: 10px 0;
+ }
+
+ .Unc3s p {
+    margin: 5px 0;
+    font-size: 7px;
+ }
+
+ .Unc3s span {
+    font-weight: bold;
+    font-style: italic;
+ }
+
+ .SpaceJams11s {
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+    position: absolute;
+    top: 330px;
+    left: 15%;
+
+ }
+
+ .SpaceJams11s img {
+    width: 100%;
+    height: auto;
+ }
+ 
+ .SpaceJams11s h3 {
+    margin: 10px 0;
+ }
+
+ .SpaceJams11s p {
+    margin: 5px 0;
+    font-size: 7px;
+ }
+
+ .SpaceJams11s span {
+    font-weight: bold;
+    font-style: italic;
+ }
